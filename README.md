@@ -13,8 +13,10 @@ The objective of this project is to develop deep learning models capable of corr
 The repository includes the following components:
 
 data/: This directory contains the Euro bill dataset used for training, validating, and testing the models as well as CSV files that include the labels for each image.
+
 models/: This directory contains the implementation of the ResNet-18 and DenseNet-121 models for Euro bill classification.
 EuropeanMoneyClassification.ipynb: A Jupyter Notebook which includes loading and preparation of data, training and validating the models, and testing and comparing the two models created.
+
 README.md: This file provides an overview of the project, instructions, and guidelines.
 ## Dataset
 
